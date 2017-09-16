@@ -1,12 +1,12 @@
-// alert("Hello World!");
-// alert(2 + 2);
-// alert(4 * "2");
-// alert(8 + "2");
-// some_string="Hi!";
-// alert(some_string);
-// $(document).ready(function() {
-//   alert("jQuery is working");
-// })
+alert("Hello World!");
+alert(2 + 2);
+alert(4 * "2");
+alert(8 + "2");
+some_string="Hi!";
+alert(some_string);
+$(document).ready(function() {
+  alert("jQuery is working");
+})
 
 $(document).ready(function() {
   alert($("#css-item").text());
